@@ -1,4 +1,5 @@
 # House Price Prediction Web Application
+![Alt Text](https://github.com/Miral086/PayTrends_DataScience/blob/main/Paytrends_web.gif)
 
 This repository contains a Flask web application for predicting house prices based on a dataset sourced from Kaggle. The application utilizes machine learning algorithms to analyze various features of houses in Indian cities and provide an estimated price.
 
